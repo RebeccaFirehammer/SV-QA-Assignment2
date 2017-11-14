@@ -33,7 +33,7 @@ import android.widget.SimpleCursorAdapter;
 
 public final class ContactManager extends Activity
 {
-
+    //Test
     public static final String TAG = "ContactManager";
 
     private Button mAddAccountButton;

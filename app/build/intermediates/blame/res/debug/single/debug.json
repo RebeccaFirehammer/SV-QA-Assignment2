@@ -1,5 +1,17 @@
 [
     {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/layout_contact_adder.xml.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/layout/contact_adder.xml"
+    },
+    {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/layout_contact_manager.xml.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/layout/contact_manager.xml"
+    },
+    {
         "merged": "/Users/f645775/ContactManager/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
         "source": "/Users/f645775/ContactManager/app/src/main/res/drawable-hdpi/icon.png"
     },
@@ -12,8 +24,24 @@
         "source": "/Users/f645775/ContactManager/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
         "merged": "/Users/f645775/ContactManager/app/build/intermediates/res/merged/debug/layout_account_entry.xml.flat",
         "source": "/Users/f645775/ContactManager/app/src/main/res/layout/account_entry.xml"
+    },
+    {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/layout_contact_entry.xml.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/layout/contact_entry.xml"
+    },
+    {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/layout_account_entry.xml.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/layout/account_entry.xml"
+    },
+    {
+        "merged": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/f645775/StudioProjects/SV-QA-Assignment2/app/src/main/res/drawable-hdpi/icon.png"
     },
     {
         "merged": "/Users/f645775/ContactManager/app/build/intermediates/res/merged/debug/layout_contact_manager.xml.flat",
