@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Nov 14 09:43:23 CST 2017
+2.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+5.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+6.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/contact_adder.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+count=7
+0.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+1.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/account_entry.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/contact_entry.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+3.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_
+4.file=/Users/f645775/ContactManager/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/contact_manager.xml
+0.set=ANDROID_RESOURCE
